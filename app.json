@@ -1,0 +1,23 @@
+{
+  "name": "keepr",
+  "displayName": "keepr",
+  "expo": {
+    "name": "keepr",
+    "slug": "keepr",
+    "version": "0.0.1",
+    "scheme": "keepr",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "bundleIdentifier": "com.keepr",
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.keepr"
+    },
+    "plugins": [
+      "expo-dev-client"
+    ]
+  }
+}
